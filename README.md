@@ -1,6 +1,11 @@
 # 8080py
-##### Intel 8080 Assembler<br />
+
+##### Intel 8080 Assembler
+
+[![Build Status](https://travis-ci.org/sadboyzvone/8080py.svg?branch=master)](https://travis-ci.org/ramlaxman/8080py)
+
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Written in Python")<br >
+
 ## About
 8080py is a basic Intel 8080 Assembler written in Python.<br />
 I made this in 48 hours for the school science fair.<br /><br />
